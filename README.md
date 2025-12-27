@@ -1,3 +1,5 @@
 # Welcome
 
-![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MausKaffee34767-2)
+> [!NOTE]
+> WORK IN PROGRESS
+> github readme stasts broke, so im currently writing an alternative
